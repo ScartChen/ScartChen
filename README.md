@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Studio Kotlin
 - 💞️ I’m looking to collaborate on cool things
 - 📫 How to reach me GitHub
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
